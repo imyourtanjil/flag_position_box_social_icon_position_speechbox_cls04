@@ -79,6 +79,8 @@ section{
   .Chele2{
     background: darkorange;
     z-index: 2;
+    left: 0px;
+    top: 0px;
   }
 
 
